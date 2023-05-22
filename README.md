@@ -1,7 +1,7 @@
 - 👋 Hi, I’m salman
 - 👀 I’m interested in code developing
 - 🌱 I’m currently learning (pyhton)
-- 💞️ I’m looking to collaborate on company
+- 💞️ I’m looking to collaborate on my love 
 - 
 
 <!---
